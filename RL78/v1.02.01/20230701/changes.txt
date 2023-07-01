@@ -1,0 +1,3 @@
+Jul 01, 2023
+* Change encoding from SJIS to UTF8.
+* Add license, etc.
